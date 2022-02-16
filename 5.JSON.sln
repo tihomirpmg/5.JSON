@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductShop", "ProductShop\ProductShop.csproj", "{21826C2A-95EA-4AB5-AF8B-AF1C7180585D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductShop", "ProductShop\ProductShop.csproj", "{21826C2A-95EA-4AB5-AF8B-AF1C7180585D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealer", "CarDealer\CarDealer.csproj", "{1D1F05FC-57A1-4CE8-8FA5-881C8D5097BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{21826C2A-95EA-4AB5-AF8B-AF1C7180585D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21826C2A-95EA-4AB5-AF8B-AF1C7180585D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21826C2A-95EA-4AB5-AF8B-AF1C7180585D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D1F05FC-57A1-4CE8-8FA5-881C8D5097BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D1F05FC-57A1-4CE8-8FA5-881C8D5097BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D1F05FC-57A1-4CE8-8FA5-881C8D5097BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D1F05FC-57A1-4CE8-8FA5-881C8D5097BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
